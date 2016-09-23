@@ -1,0 +1,27 @@
+@import "jquery.fullPage";
+
+@import "font-awesome-sprockets";
+@import "font-awesome";
+
+$body-bg: #C1E1A6 !default;
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+@import "homes";
+
+.center-image
+{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.well
+{
+	margin-bottom: 5px;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
